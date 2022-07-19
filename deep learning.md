@@ -49,5 +49,5 @@
         - visible layer과 hidden layer로 구성된 모델
         - 차원 감소, 분류, 선형 회귀 분석, 협업 필터링(collaborative filtering), 특성 값 학습(feature learning), 주제 모델링(topic modelling)에 사용
         - 기울기 소멸 문제를 해결하기 위해 사전 학습 용도로 활용 가능
-        - DBN의 요소로 활용
-    -
+        - 한줄 제거
+    - 한 라인 추가
